@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Reportes generados
+reporte.html
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
