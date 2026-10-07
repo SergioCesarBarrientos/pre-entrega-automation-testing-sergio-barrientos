@@ -9,8 +9,6 @@ __pycache__/
 # Pytest
 .pytest_cache/
 
-# Reportes generados
-reporte.html
 
 # Archivos del sistema
 .DS_Store
